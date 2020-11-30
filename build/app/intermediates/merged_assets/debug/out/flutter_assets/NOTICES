@@ -4120,6 +4120,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 charcode
+http
+http_parser
 matcher
 path
 source_span
@@ -9267,6 +9269,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 json_annotation
+pedantic
 term_glyph
 
 Copyright 2017, the Dart project authors. All rights reserved.
